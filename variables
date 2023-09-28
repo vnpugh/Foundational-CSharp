@@ -1,0 +1,11 @@
+// Declare Variable
+//retrieve a value from a variable
+
+string firstName;
+firstName = "Bob";
+Console.WriteLine(firstName);
+
+// char userOption;
+
+// int gameScore;
+
