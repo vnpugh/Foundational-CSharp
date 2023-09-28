@@ -1,0 +1,18 @@
+// character literal (single quotes)
+Console.WriteLine('b');
+
+// String
+Console.WriteLine("Hello World!");
+
+// Integer literal (int literal)
+Console.WriteLine(123);
+
+// Floating Point literals (decimal)
+// append the letter F (literal suffix) after the number
+Console.WriteLine(0.25F);
+// Float 6-9 digits
+// Double 15-17 digits
+Console.WriteLine(2.625);
+// Decimal 28-29 digits
+// To create a decimal literal, append the letter m after the number
+Console.WriteLine(12.39816m);
